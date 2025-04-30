@@ -19,4 +19,4 @@
 
 ---
 
-*Note: The game is in development, with planned refinements and updates to enhance the experience.*
+*Note: The game is in development, with planned refinements and updates to enhance the experience, in addition to a name change.*
