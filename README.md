@@ -1,6 +1,6 @@
 # Bird-Fly
 
-**Bird-Fly** is an engaging 2D side-scrolling game where players take control of a bird flying toward the right side of the screen. The goal is to navigate skillfully and avoid oncoming enemies, including bats and other airborne threats. As the game progresses, players can unlock different bird characters and maps, adding variety and customization to the experience. To test reflexes and adaptability, the game gradually increases in speed, requiring precise movements for survival.
+**Bird-Fly** is an engaging 2D side-scrolling game created in buildbox classic, where players take control of a bird flying toward the right side of the screen. The goal is to navigate skillfully and avoid oncoming enemies, including bats and other airborne threats. As the game progresses, players can unlock different bird characters and maps, adding variety and customization to the experience. To test reflexes and adaptability, the game gradually increases in speed, requiring precise movements for survival.
 
 ## Features
 - **Smooth Side-Scrolling Gameplay:** Fly through dynamic environments, navigating obstacles.
