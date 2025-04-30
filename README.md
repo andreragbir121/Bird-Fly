@@ -15,7 +15,7 @@
 4. Adapt to the increasing speed to survive longer.
 
 ## Technologies Used
-- **Unity Engine:** Built using Unity for smooth and immersive gameplay.
+- **BuildBox Engine:** Built using BuildBox classic for smooth and immersive gameplay.
 
 ---
 
